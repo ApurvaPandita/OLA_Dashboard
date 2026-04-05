@@ -8,4 +8,5 @@ This project is an interactive data analytics dashboard built to analyze ride bo
 2. Revenue: 35M
 3. Success Rate: ~62%
 4. Cancellation Rate: ~28%
+5. High dependency on cash payments
 
