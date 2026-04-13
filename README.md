@@ -83,19 +83,19 @@ The dashboard is divided into the following report pages:
 ```
 
 ### Revenue Overview
-![Revenue](screenshots/revenue_through_bookings.png)
+![Revenue](./screenshots/revenue_through_bookings.png)
 
 ### Booking Overview
-![Bookings](screenshots/overview_of_bookings.png)
+![Bookings](./screenshots/overview_of_bookings.png)
 
 ### Ratings Analysis
-![Ratings](screenshots/overall_ratings.png)
+![Ratings](./screenshots/overall_ratings.png)
 
 ### Cancellation Analysis
-![Cancellation](screenshots/cancellation_analysis.png)
+![Cancellation](./screenshots/cancellation_analysis.png)
 
 ### Vehicle Performance
-![Vehicle](screenshots/vehicle_performance.png)
+![Vehicle](./screenshots/vehicle_performance.png)
 
 ## 🙋 Author
 
