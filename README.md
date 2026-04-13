@@ -81,7 +81,7 @@ The dashboard is divided into the following report pages:
 > *(Add your Power BI screenshots here — drag and drop images into the repo and reference them below)*
 
 ```
-![Revenue Overview](Revenue%20through%20bookings.png)
+![Revenue Overview](screenshots\revenue_through_bookings.png)
 ```
 
 
