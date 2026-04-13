@@ -81,7 +81,7 @@ The dashboard is divided into the following report pages:
 > *(Add your Power BI screenshots here — drag and drop images into the repo and reference them below)*
 
 ```
-![Revenue Overview]([screenshots\revenue_through_bookings.png](https://github.com/ApurvaPandita/OLA_Dashboard/blob/main/screenshots/revenue_through_bookings.png?raw=true)
+![Revenue Overview](https://github.com/ApurvaPandita/OLA_Dashboard/blob/main/screenshots/revenue_through_bookings.png?raw=true)
 ```
 
 ![Test](https://via.placeholder.com/400)
