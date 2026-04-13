@@ -84,7 +84,7 @@ The dashboard is divided into the following report pages:
 ![Revenue Overview]([screenshots\revenue_through_bookings.png](https://github.com/ApurvaPandita/OLA_Dashboard/blob/main/screenshots/revenue_through_bookings.png?raw=true)
 ```
 
-
+![Test](https://via.placeholder.com/400)
 ## 🙋 Author
 
 **Apurva Pandita**  
