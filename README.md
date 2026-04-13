@@ -81,10 +81,22 @@ The dashboard is divided into the following report pages:
 > *(Add your Power BI screenshots here — drag and drop images into the repo and reference them below)*
 
 ```
-![img alt](https://github.com/ApurvaPandita/OLA_Dashboard/blob/main/screenshots/revenue_through_bookings.png?raw=true)
-```
 
-![Test](https://via.placeholder.com/400)
+### Revenue Overview
+![Revenue](screenshots/revenue_through_bookings.png)
+
+### Booking Overview
+![Bookings](screenshots/overview_of_bookings.png)
+
+### Ratings Analysis
+![Ratings](screenshots/overall_ratings.png)
+
+### Cancellation Analysis
+![Cancellation](screenshots/cancellation_analysis.png)
+
+### Vehicle Performance
+![Vehicle](screenshots/vehicle_performance.png)
+
 ## 🙋 Author
 
 **Apurva Pandita**  
