@@ -16,9 +16,10 @@ Ride-hailing platforms like Ola generate thousands of bookings daily, but raw da
 
 - Why is the cancellation rate as high as 28%?
 - Which vehicle types are performing best in terms of revenue and distance?
-- How are customers paying and who are the top spenders?
+- How are customers paying ?
 - Are drivers and customers satisfied with the service across vehicle categories?
 - What are the reasons behind incomplete rides?
+  
 ---
 
 ## 📁 Dataset
